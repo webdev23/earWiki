@@ -371,7 +371,7 @@ echo '<base href="http://ponyhacks.com/open/apps/earwiki/ear_shaarli.php">
 <div class="news">
 <div class="linksNews">
 	<strong><span style="font-size:1.5em">🇪</strong></span>
-	
+
 	<a href="https://news.vice.com/rss"><img src="https://news.vice.com/favicon.ico">Vice news</a>
 	<a href="http://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"><img src="http://nytimes.com/favicon.ico">nytimes.com</a>
 	<a href=""><img src="/favicon.ico"></a>
@@ -387,14 +387,12 @@ echo '<base href="http://ponyhacks.com/open/apps/earwiki/ear_shaarli.php">
 	<a href="https://www.sitepoint.com/feed/"><img src="https://www.sitepoint.com/favicon.ico">sitepoint.com</a>
 	<a href="http://tutorialzine.com/feed/"><img src="http://tutorialzine.com/favicon.ico">tutorialzine.com</a>
 	<a href="https://blog.mozilla.org/feed/"><img src="https://ffp4g1ylyit3jdyti1hqcvtb-wpengine.netdna-ssl.com/wp-content/themes/OneMozilla/img/favicon.ico">blog.mozilla.org</a>
-
-
+	
 </div>
 <hr />
-
 	<div class="linksNewsFr">
 	<strong><span style="font-size:1.5em">🇫</strong></span>
-	
+
 	<a href="https://news.google.fr/news?output=rss"><img src="https://news.google.fr/favicon.ico">news.google.fr</a>
 	<a href="http://www.franceinfo.fr/rss.xml"><img src="http://www.franceinfo.fr/favicon.ico">franceinfo.fr</a>
 	<a href="http://www.laquadrature.net/fr/rss.xml"><img src="http://www.laquadrature.net/favicon.ico">laquadrature.net</a>
@@ -403,17 +401,11 @@ echo '<base href="http://ponyhacks.com/open/apps/earwiki/ear_shaarli.php">
 	<a href="http://www.ledauphine.com/rss"><img src="http://www.ledauphine.com/favicon.ico">ledauphine.com</a>
 	<a href="https://www.mediapart.fr/articles/feed"><img src="https://www.mediapart.fr/favicon.ico">mediapart.fr</a>
 	<a href="https://blog.mozilla.org/press-fr/feed/"><img src="https://ffp4g1ylyit3jdyti1hqcvtb-wpengine.netdna-ssl.com/wp-content/themes/OneMozilla/img/favicon.ico">blog.mozilla.org</a>
-	
-	
-
-
    </div>
 </div>
 <hr />
 	<div id="descShaarli">
 ';
-
-
 foreach ($xml->channel->item as $item) {
 
     $stampDate = $item->pubDate;
@@ -434,9 +426,7 @@ foreach ($xml->channel->item as $item) {
 
   echo "<hr />";
   // echo json_encode( $item->pubDate, JSON_UNESCAPED_SLASHES);
-
-}
-
+};
 $shTitle = $item->title;
 $earList=$dom->getElementsByTagName('p');
 $titleList=$dom->getElementsByTagName('title');
@@ -449,17 +439,15 @@ echo '
 	textarea {font-size:1.1em;min-width:100%;height:50%;min-height:66%}
 	</style>
 	<form>
-';
-
+   ';
 echo '
 	<i><strong><a style="margin:-45 2% 0 0;float:right" href="'.$wiki.'">'.$titleList->item(0)->nodeValue.'</a></strong></i>
-';
+   ';
 echo $imgList->item(2)->src;
 echo '
 	</strong><div class="clearfix"></div>
 	<br><input type="text" data-name="french" id="earInput" value="fucked"  class="txt">
-    ';
-
+   ';
 for($p=0;$p<$earList->length;++$p)
 		{
 	$dd=explode("(",$earList->item($p)->nodeValue);
@@ -474,13 +462,14 @@ for($p=0;$p<$earList->length;++$p)
 	$cc=  trim($dd[0]);
 	$filpwn = str_replace("Array", "lol", $earList->item($p)->nodeValue);
 };
-echo '</textarea>
+echo '</input>
        </form>
       <div>
     </div>
   </div>
 </div>';
 };
+
 echo '
 <script>
 	var getDom = document.getElementById("descShaarli").innerText;
