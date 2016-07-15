@@ -370,41 +370,41 @@ echo '<base href="http://ponyhacks.com/open/apps/earwiki/ear_shaarli.php">
 	</div><hr />
 <div class="news">
 <div class="linksNews">
-<strong><span style="font-size:1.5em">🇪</strong></span>
-
-<a href="https://news.vice.com/rss"><img src="https://news.vice.com/favicon.ico">Vice news</a>
-<a href="http://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"><img src="http://nytimes.com/favicon.ico">nytimes.com</a>
-<a href=""><img src="/favicon.ico"></a>
-<a href="https://www.rt.com/rss/"><img src="https://www.rt.com/favicon.ico">rt.com</a>
-<a href="http://www.msnbc.com/feeds/latest"><img src="http://www.msnbc.com/favicon.ico">msnbc.com</a>
-<a href="https://www.laquadrature.net/en/rss.xml"><img src="https://www.laquadrature.net/favicon.ico">laquadrature.net</a>
-<a href="http://www.cnet.com/rss/all/"><img src="http://www.cnet.com/favicon.ico">cnet.com</a>
-<a href="http://www.circuitstoday.com/feed"><img src="http://www.circuitstoday.com/favicon.ico">circuitstoday.com</a>
-<a href="http://feeds.feedburner.com/foxnews/latest"><img src="http://foxnews.com/favicon.ico">foxnews</a>
-<a href="https://techcrunch.com/feed/"><img src="https://techcrunch.com/favicon.ico">techcrunch.com</a>
-<a href="http://www.mirror.co.uk/tech/rss.xml"><img src="http://www.mirror.co.uk/favicon.ico">mirror.co.uk</a>
-<a href="http://hackaday.com/feed/"><img src="http://hackaday.com/favicon.ico">hackaday.com</a>
-<a href="https://www.sitepoint.com/feed/"><img src="https://www.sitepoint.com/favicon.ico">sitepoint.com</a>
-<a href="http://tutorialzine.com/feed/"><img src="http://tutorialzine.com/favicon.ico">tutorialzine.com</a>
-<a href="https://blog.mozilla.org/feed/"><img src="https://ffp4g1ylyit3jdyti1hqcvtb-wpengine.netdna-ssl.com/wp-content/themes/OneMozilla/img/favicon.ico">blog.mozilla.org</a>
+	<strong><span style="font-size:1.5em">🇪</strong></span>
+	
+	<a href="https://news.vice.com/rss"><img src="https://news.vice.com/favicon.ico">Vice news</a>
+	<a href="http://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"><img src="http://nytimes.com/favicon.ico">nytimes.com</a>
+	<a href=""><img src="/favicon.ico"></a>
+	<a href="https://www.rt.com/rss/"><img src="https://www.rt.com/favicon.ico">rt.com</a>
+	<a href="http://www.msnbc.com/feeds/latest"><img src="http://www.msnbc.com/favicon.ico">msnbc.com</a>
+	<a href="https://www.laquadrature.net/en/rss.xml"><img src="https://www.laquadrature.net/favicon.ico">laquadrature.net</a>
+	<a href="http://www.cnet.com/rss/all/"><img src="http://www.cnet.com/favicon.ico">cnet.com</a>
+	<a href="http://www.circuitstoday.com/feed"><img src="http://www.circuitstoday.com/favicon.ico">circuitstoday.com</a>
+	<a href="http://feeds.feedburner.com/foxnews/latest"><img src="http://foxnews.com/favicon.ico">foxnews</a>
+	<a href="https://techcrunch.com/feed/"><img src="https://techcrunch.com/favicon.ico">techcrunch.com</a>
+	<a href="http://www.mirror.co.uk/tech/rss.xml"><img src="http://www.mirror.co.uk/favicon.ico">mirror.co.uk</a>
+	<a href="http://hackaday.com/feed/"><img src="http://hackaday.com/favicon.ico">hackaday.com</a>
+	<a href="https://www.sitepoint.com/feed/"><img src="https://www.sitepoint.com/favicon.ico">sitepoint.com</a>
+	<a href="http://tutorialzine.com/feed/"><img src="http://tutorialzine.com/favicon.ico">tutorialzine.com</a>
+	<a href="https://blog.mozilla.org/feed/"><img src="https://ffp4g1ylyit3jdyti1hqcvtb-wpengine.netdna-ssl.com/wp-content/themes/OneMozilla/img/favicon.ico">blog.mozilla.org</a>
 
 
 </div>
 <hr />
 
-<div class="linksNewsFr">
-<strong><span style="font-size:1.5em">🇫</strong></span>
-
-<a href="https://news.google.fr/news?output=rss"><img src="https://news.google.fr/favicon.ico">news.google.fr</a>
-<a href="http://www.franceinfo.fr/rss.xml"><img src="http://www.franceinfo.fr/favicon.ico">franceinfo.fr</a>
-<a href="http://www.laquadrature.net/fr/rss.xml"><img src="http://www.laquadrature.net/favicon.ico">laquadrature.net</a>
-<a href="https://francais.rt.com/rss"><img src="https://francais.rt.com/favicon.ico">francais.rt.com</a>
-<a href="http://www.lemonde.fr/rss/une.xml"><img src="http://www.lemonde.fr/favicon.ico">lemonde.fr</a>
-<a href="http://www.ledauphine.com/rss"><img src="http://www.ledauphine.com/favicon.ico">ledauphine.com</a>
-<a href="https://www.mediapart.fr/articles/feed"><img src="https://www.mediapart.fr/favicon.ico">mediapart.fr</a>
-<a href="https://blog.mozilla.org/press-fr/feed/"><img src="https://ffp4g1ylyit3jdyti1hqcvtb-wpengine.netdna-ssl.com/wp-content/themes/OneMozilla/img/favicon.ico">blog.mozilla.org</a>
-
-
+	<div class="linksNewsFr">
+	<strong><span style="font-size:1.5em">🇫</strong></span>
+	
+	<a href="https://news.google.fr/news?output=rss"><img src="https://news.google.fr/favicon.ico">news.google.fr</a>
+	<a href="http://www.franceinfo.fr/rss.xml"><img src="http://www.franceinfo.fr/favicon.ico">franceinfo.fr</a>
+	<a href="http://www.laquadrature.net/fr/rss.xml"><img src="http://www.laquadrature.net/favicon.ico">laquadrature.net</a>
+	<a href="https://francais.rt.com/rss"><img src="https://francais.rt.com/favicon.ico">francais.rt.com</a>
+	<a href="http://www.lemonde.fr/rss/une.xml"><img src="http://www.lemonde.fr/favicon.ico">lemonde.fr</a>
+	<a href="http://www.ledauphine.com/rss"><img src="http://www.ledauphine.com/favicon.ico">ledauphine.com</a>
+	<a href="https://www.mediapart.fr/articles/feed"><img src="https://www.mediapart.fr/favicon.ico">mediapart.fr</a>
+	<a href="https://blog.mozilla.org/press-fr/feed/"><img src="https://ffp4g1ylyit3jdyti1hqcvtb-wpengine.netdna-ssl.com/wp-content/themes/OneMozilla/img/favicon.ico">blog.mozilla.org</a>
+	
+	
 
 
    </div>
@@ -512,21 +512,19 @@ echo '
 	//~ // You need Firefox dev 49+.
 	//~ }
 
-var ponyThis = document.getElementsByClassName("links")[0].getElementsByTagName("a");
-var ponyAgain = document.getElementsByClassName("linksNews")[0].getElementsByTagName("a");
-var ponyFR = document.getElementsByClassName("linksNewsFr")[0].getElementsByTagName("a");
-	for (var i = 0; i < ponyThis.length; i++) {
-	ponyThis[i].href = "http://ponyhacks.com/open/apps/earwiki/ear_shaarli.php?shaarli=" + ponyThis[i].href + "?do=rss&nb=all";
-};
-for (var i = 0; i < ponyAgain.length; i++) {
-ponyAgain[i].href = "http://ponyhacks.com/open/apps/earwiki/ear_shaarli.php?shaarli=" + ponyAgain[i].href + "&lang=en";
-};
-for (var i = 0; i < ponyFR.length; i++) {
-ponyFR[i].href = "http://ponyhacks.com/open/apps/earwiki/ear_shaarli.php?shaarli=" + ponyFR[i].href;
-};
-	document.getElementById("river").href = "http://ponyhacks.com/open/apps/earwiki/ear_shaarli.php?shaarli=http://shaarli-api.ecirtam.net/latest?format=rss";
-
-
+	var ponyThis = document.getElementsByClassName("links")[0].getElementsByTagName("a");
+	var ponyAgain = document.getElementsByClassName("linksNews")[0].getElementsByTagName("a");
+	var ponyFR = document.getElementsByClassName("linksNewsFr")[0].getElementsByTagName("a");
+		for (var i = 0; i < ponyThis.length; i++) {
+		ponyThis[i].href = "http://ponyhacks.com/open/apps/earwiki/ear_shaarli.php?shaarli=" + ponyThis[i].href + "?do=rss&nb=all";
+	};
+	for (var i = 0; i < ponyAgain.length; i++) {
+	ponyAgain[i].href = "http://ponyhacks.com/open/apps/earwiki/ear_shaarli.php?shaarli=" + ponyAgain[i].href + "&lang=en";
+	};
+	for (var i = 0; i < ponyFR.length; i++) {
+	ponyFR[i].href = "http://ponyhacks.com/open/apps/earwiki/ear_shaarli.php?shaarli=" + ponyFR[i].href;
+	};
+		document.getElementById("river").href = "http://ponyhacks.com/open/apps/earwiki/ear_shaarli.php?shaarli=http://shaarli-api.ecirtam.net/latest?format=rss";
 </script>
 
 </body>';
