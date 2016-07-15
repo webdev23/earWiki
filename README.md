@@ -1,5 +1,5 @@
 # earWiki
-Parser to listen useful webpages like Wikipedia.
+##**Parser to listen useful webpages like Wikipedia.**
 
 You need to activate the web speech api in Firefox about:config.
 Set:
